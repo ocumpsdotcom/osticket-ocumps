@@ -252,7 +252,7 @@ button[type=submit], input[type="submit"], .primary.button {
 button[type=submit]:hover, input[type=submit]:hover, input[type=submit]:active {
   color: #d00;
   box-shadow: 0 0 0 2px rgba(0,0,0,0.7) inset;
-  background-color: #888;
+  background-color: #ffff;
   background-color: rgba(0, 0, 0, 0.5);
 }
 
