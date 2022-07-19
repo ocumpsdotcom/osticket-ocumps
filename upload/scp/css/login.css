@@ -115,7 +115,7 @@ body, input {
     right: 0;
     top: 0;
     bottom: 0;
-    background-color: rgba(255,255,255,0.6);
+    background-color: rgba(0,0,0,0.1);
     border-radius: 5px;
     z-index: -1;
     mix-blend-mode: normal;
@@ -215,7 +215,7 @@ input[type="button"],
     border: none;
     box-shadow: 0 0 0 1px rgba(0,0,0,0.25) inset;
     padding:2px 11px;
-    color: #555;
+    color: #ffff;
     background-color: #f0f0f0;
     background-color: rgba(0,0,0,0.02);
     -webkit-border-radius: 3px;
@@ -250,7 +250,7 @@ button[type=submit], input[type="submit"], .primary.button {
 }
 
 button[type=submit]:hover, input[type=submit]:hover, input[type=submit]:active {
-  color: white;
+  color: #d00;
   box-shadow: 0 0 0 2px rgba(0,0,0,0.7) inset;
   background-color: #888;
   background-color: rgba(0, 0, 0, 0.5);
